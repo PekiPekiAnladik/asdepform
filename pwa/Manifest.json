@@ -1,0 +1,118 @@
+{
+  "name": "Sosyal Hizmet Görüşme Formları",
+  "short_name": "SH Formları",
+  "description": "Sosyal Hizmet Merkezi saha çalışması görüşme formları",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#4a90e2",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "lang": "tr",
+  "dir": "ltr",
+  "categories": ["productivity", "business"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMTIiIGZpbGw9IiM0YTkwZTIiLz4KPHN2ZyB4PSIxMiIgeT0iMTIiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+CjxwYXRoIGQ9Ik00IDZINi41SDhWNEg0VjZaTTEwIDZIMTZWNEgxMFY2WiIgZmlsbD0id2hpdGUiLz4KPHN0cm9rZSB3aWR0aD0iMSIvPgo8cGF0aCBkPSJNNCAxMkg2LjVIOFYxMEg0VjEyWk0xMCAxMkgxNlYxMEgxMFYxMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik00IDE4SDYuNUg4VjE2SDRWMThaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTAgMThIMTZWMTZIMTBWMThaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4KPC9zdmc+",
+      "sizes": "48x48",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MiA3MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcyIiBoZWlnaHQ9IjcyIiByeD0iMTgiIGZpbGw9IiM0YTkwZTIiLz4KPHN2ZyB4PSIxOCIgeT0iMTgiIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiI+CjxwYXRoIGQ9Ik02IDlIOC41SDEyVjZINlY5Wk0xNSA5SDI0VjZIMTVWOVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik02IDE4SDguNUgxMlYxNUg2VjE4Wk0xNSAxOEgyNFYxNUgxNVYxOFoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik02IDI3SDguNUgxMlYyNEg2VjI3Wk0xNSAyN0gyNFYyNEgxNVYyN1oiIGZpbGw9IndoaXRlIi8+CjwvZ3N2Zz4KPC9zdmc+",
+      "sizes": "72x72",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiByeD0iMjQiIGZpbGw9IiM0YTkwZTIiLz4KPHN2ZyB4PSIyNCIgeT0iMjQiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCI+CjxwYXRoIGQ9Ik04IDEySDEwLjVIMTZWOEg4VjEyWk0yMCAxMkgzMlY4SDIwVjEyWiIgZmlsbD0id2hpdGUiLz4KPHN0cm9rZSB3aWR0aD0iMSIvPgo8cGF0aCBkPSJNOCAyNEgxMC41SDE2VjIwSDhWMjRaTTIwIDI0SDMyVjIwSDIwVjI0WiIgZmlsbD0id2hpdGUiLz4KPHN0cm9rZSB3aWR0aD0iMSIvPgo8cGF0aCBkPSJNOCAzNkgxMC41SDE2VjMySDhWMzZaTTIwIDM2SDMyVjMySDIwVjM2WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+CjwvZ3N2Zz4K",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQ0IiBoZWlnaHQ9IjE0NCIgdmlld0JveD0iMCAwIDE0NCAxNDQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxNDQiIGhlaWdodD0iMTQ0IiByeD0iMzYiIGZpbGw9IiM0YTkwZTIiLz4KPHN2ZyB4PSIzNiIgeT0iMzYiIHdpZHRoPSI3MiIgaGVpZ2h0PSI3MiI+CjxwYXRoIGQ9Ik0xMiAxOEgxNS41SDI0VjEySDEyVjE4Wk0zMCAxOEg0OFYxMkgzMFYxOFoiIGZpbGw9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPHN0cm9rZSB3aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTIgMzZIMTUuNUgyNFYzMEgxMlYzNlpNMzAgMzZINDhWMzBIMzBWMzZaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxzdHJva2Ugd2lkdGg9IjIiLz4KPHN0cm9rZSB3aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTIgNTRIMTUuNUgyNFY0OEgxMlY1NFpNMzAgNTRINDhWNDhIMzBWNTRaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjwvZ3N2Zz4KPC9zdmc+",
+      "sizes": "144x144",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iNDgiIGZpbGw9IiM0YTkwZTIiLz4KPHN2ZyB4PSI0OCIgeT0iNDgiIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiI+CjxwYXRoIGQ9Ik0xNiAyNEgyMUgzMlYxNkgxNlYyNFpNNDAgMjRINjRWMTZINDBWMjRaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIi8+CjxzdHJva2Ugd2lkdGg9IjMiLz4KPHN0cm9rZSB3aWR0aD0iMyIvPgo8cGF0aCBkPSJNMTYgNDhIMjFIMzJWNDBIMTZWNDhaTTQwIDQ4SDY0VjQwSDQwVjQ4WiIgZmlsbD0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIvPgo8c3Ryb2tlIHdpZHRoPSIzIi8+CjxzdHJva2Ugd2lkdGg9IjMiLz4KPHN0cm9rZSB3aWR0aD0iMyIvPgo8cGF0aCBkPSJNMTYgNzJIMjFIMzJWNjRIMTZWNzJaTTQwIDcySDY0VjY0SDQwVjcyWiIgZmlsbD0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIvPgo8L3N2Zz4KPC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTI4IiBmaWxsPSIjNGE5MGUyIi8+CjxzdmcgeD0iMTI4IiB5PSIxMjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2Ij4KPHN0cm9rZSB3aWR0aD0iOCIvPgo8cGF0aCBkPSJNNDQgNjRINTZIODVWNDJINDRWNjRaTTEwNiA2NEgxNzBWNDJIMTA2VjY0WiIgZmlsbD0id2hpdGUiIHN0cm9rZS13aWR0aD0iOCIvPgo8c3Ryb2tlIHdpZHRoPSI4Ii8+CjxzdHJva2Ugd2lkdGg9IjgiLz4KPHN0cm9rZSB3aWR0aD0iOCIvPgo8cGF0aCBkPSJNNDQgMTI4SDU2SDg1VjEwNkg0NFYxMjhaTTEwNiAxMjhIMTcwVjEwNkgxMDZWMTI4WiIgZmlsbD0id2hpdGUiIHN0cm9rZS13aWR0aD0iOCIvPgo8c3Ryb2tlIHdpZHRoPSI4Ii8+CjxzdHJva2Ugd2lkdGg9IjgiLz4KPHN0cm9rZSB3aWR0aD0iOCIvPgo8c3Ryb2tlIHdpZHRoPSI4Ii8+CjxwYXRoIGQ9Ik00NCAxOTJINTZIODVWMTcwSDQ0VjE5MlpNMTA2IDE5MkgxNzBWMTcwSDEwNlYxOTJaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI4Ii8+CjwvZ3N2Zz4KPC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Yeni Form",
+      "short_name": "Yeni Form",
+      "description": "Yeni görüşme formu başlat",
+      "url": "/?action=new-form",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiM0YTkwZTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJjNS41MiAwIDEwIDQuNDggMTAgMTBzLTQuNDggMTAtMTAgMTBTMiAxNy41MiAyIDEyIDYuNDggMiAxMiAyek0xMyA3aC0ydjR2NGgyVjExaDQtNHoiLz4KPC9zdmc+",
+          "sizes": "24x24"
+        }
+      ]
+    },
+    {
+      "name": "Kayıtlı Formlar",
+      "short_name": "Kayıtlı",
+      "description": "Daha önce kaydettiğiniz formları görüntüle",
+      "url": "/?action=saved-forms",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiM0YTkwZTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5IDNINUMzLjkgMyAzIDMuOSAzIDV2MTRjMCAxLjEuOSAyIDIgMmgxNGMxLjEgMCAyLS45IDItMlY1YzAtMS4xLS45LTItMi0yem0tNSAxNkg1VjVoOXYxM3oiLz4KPC9zdmc+",
+          "sizes": "24x24"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQwIiBoZWlnaHQ9IjUyMCIgdmlld0JveD0iMCAwIDI0MCA1MjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNDAiIGhlaWdodD0iNTIwIiBmaWxsPSIjZjhmOWZhIi8+CjxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjIyMCIgaGVpZ2h0PSI1MDAiIHJ4PSIxMiIgZmlsbD0id2hpdGUiLz4KPHJlY3QgeD0iMTAiIHk9IjEwIiB3aWR0aD0iMjIwIiBoZWlnaHQ9IjgwIiBmaWxsPSIjNGE5MGUyIi8+Cjx0ZXh0IHg9IjEyMCIgeT0iNDAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE0Ij5Tb3N5YWwgSGl6bWV0IEZvcm11PC90ZXh0Pgo8cmVjdCB4PSIyMCIgeT0iMTEwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iI2UxZThlZCIvPgo8cmVjdCB4PSIyMCIgeT0iMTcwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iI2UxZThlZCIvPgo8cmVjdCB4PSIyMCIgeT0iMjMwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzRhOTBlMiIvPgo8L3N2Zz4K",
+      "sizes": "240x520",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTQwIiBoZWlnaHQ9IjcyMCIgdmlld0JveD0iMCAwIDU0MCA3MjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1NDAiIGhlaWdodD0iNzIwIiBmaWxsPSIjZjhmOWZhIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSI2ODAiIHJ4PSIxMiIgZmlsbD0id2hpdGUiLz4KPHJlY3QgeD0iMjAiIHk9IjIwIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzRhOTBlMiIvPgo8dGV4dCB4PSIyNzAiIHk9IjYwIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxOCI+U29zeWFsIEhpem1ldCBGb3JtdTwvdGV4dD4KPHJlY3QgeD0iNDAiIHk9IjE0MCIgd2lkdGg9IjQ2MCIgaGVpZ2h0PSI1MCIgcng9IjgiIGZpbGw9IiNlMWU4ZWQiLz4KPHJlY3QgeD0iNDAiIHk9IjIxMCIgd2lkdGg9IjQ2MCIgaGVpZ2h0PSI1MCIgcng9IjgiIGZpbGw9IiNlMWU4ZWQiLz4KPHJlY3QgeD0iNDAiIHk9IjI4MCIgd2lkdGg9IjQ2MCIgaGVpZ2h0PSI1MCIgcng9IjgiIGZpbGw9IiM0YTkwZTIiLz4KPC9zdmc+",
+      "sizes": "540x720",
+      "type": "image/svg+xml",
+      "form_factor": "wide"
+    }
+  ],
+  "related_applications": [],
+  "protocol_handlers": [
+    {
+      "protocol": "web+sh-form",
+      "url": "/?form=%s"
+    }
+  ],
+  "share_target": {
+    "action": "/share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url",
+      "files": [
+        {
+          "name": "files",
+          "accept": ["application/json", ".json"]
+        }
+      ]
+    }
+  },
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  }
+}
